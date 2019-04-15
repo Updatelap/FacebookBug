@@ -1,2 +1,2 @@
-# FB_IDOR
+# FACEBOOK IDOR
 FACEBOOK IDOR PoC Python code:
