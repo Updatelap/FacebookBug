@@ -10,3 +10,5 @@ Facebook Write-ups, PoC, and exploitation codes:
 
 1. [Disclose Facebook Business Manager admins](https://www.youtube.com/watch?v=mVC8V_TU7Bc)
     
+1. [Facebook IDOR bug in GraphQL.](https://youtu.be/lY_5FHhRVko) PoC2 https://www.youtube.com/watch?v=oZxVQwX9O74 
+
