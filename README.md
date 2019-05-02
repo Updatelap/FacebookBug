@@ -1,4 +1,4 @@
-# FACEBOOK BugBounty.
+# FACEBOOK Bug Bounty PoC by [@Jafar_Abo_Nada](https://twitter.com/Jafar_Abo_Nada) 
 
 Facebook Write-ups, PoC, and exploitation codes:
 
