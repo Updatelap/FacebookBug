@@ -4,7 +4,7 @@ Facebook Write-ups, PoC, and exploitation codes:
 
 1. [malicious person add people to the "Top Fans" write up and PoC video](https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html)
 
-1. [Change the user status "turn on OR Off "in "Top Fans write up and PoC video](https://www.youtube.com/watch?v=yaXzz0Y2w98)
+1. [Change the user status "turn on OR Off "in "Top Fans write up and PoC video](https://bugreader.com/updatelap@malicious-user-can-to-toggle-top-fans-list-from-on-to-off-for-any-user-73)
 
 1. [Privileged Escalation in Facebook Messenger Rooms write up and PoC video](https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html)
 
