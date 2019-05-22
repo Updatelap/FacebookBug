@@ -2,13 +2,12 @@
 
 Facebook Write-ups, PoC, and exploitation codes:
 
-1. [malicious person add people to the "Top Fans".](https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html)
+1. [malicious person add people to the "Top Fans" write up and PoC video](https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html)
 
-1. [Change the user status "turn on OR Off "in "Top Fans.](https://www.youtube.com/watch?v=yaXzz0Y2w98)
+1. [Change the user status "turn on OR Off "in "Top Fans write up and PoC video](https://www.youtube.com/watch?v=yaXzz0Y2w98)
 
-1. [Privileged Escalation in Facebook Messenger Rooms](https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html)
+1. [Privileged Escalation in Facebook Messenger Rooms write up and PoC video](https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html)
 
-1. [Disclose Facebook Business Manager admins](https://www.youtube.com/watch?v=mVC8V_TU7Bc)
+1. [Disclose Facebook Business Manager admins write up and PoC video](https://bugreader.com/updatelap@disclosure-of-business-employee-identity-to-non-business-employee-74)
     
-1. [Facebook IDOR bug in GraphQL.](https://youtu.be/lY_5FHhRVko) PoC2 https://www.youtube.com/watch?v=oZxVQwX9O74 
-
+1. [Facebook IDOR bug in GraphQL write up and PoC video .](https://bugreader.com/updatelap@idor-in-graphql-on-portal-facebook-leads-to-change-setting-76)
