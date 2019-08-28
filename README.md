@@ -12,5 +12,6 @@ Facebook Write-ups, PoC, and exploitation codes:
     
 1. [Facebook IDOR bug in GraphQL write up and PoC video .](https://bugreader.com/updatelap@idor-in-graphql-on-portal-facebook-leads-to-change-setting-76)
 
-1. [Rights Manager Graph API Disclosure of business employee to non business employee](https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html
-)
+1. [Rights Manager Graph API Disclosure of business employee to non business employee](https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html)
+
+1. [Group Manager in Page Disclosure of business employee's to non-business employee's](https://www.youtube.com/watch?v=gpgE-mC_DnY)
