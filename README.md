@@ -15,3 +15,5 @@ Facebook Write-ups, PoC, and exploitation codes:
 1. [Rights Manager Graph API Disclosure of business employee to non business employee](https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html)
 
 1. [Group Manager in Page Disclosure of business employee's to non-business employee's](https://www.youtube.com/watch?v=gpgE-mC_DnY)
+
+1. [Spark AR discloses the name of the business admin when they create a effect by "AR Manager"](https://youtu.be/jzqQ4gnDoKI)
