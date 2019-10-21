@@ -17,3 +17,5 @@ Facebook Write-ups, PoC, and exploitation codes:
 1. [Group Manager in Page Disclosure of business employee's to non-business employee's](https://www.youtube.com/watch?v=gpgE-mC_DnY)
 
 1. [Spark AR discloses the name of the business admin when they create a effect by "AR Manager"](https://youtu.be/jzqQ4gnDoKI)
+
+1. ["Bypass" SparkHup Disclosure of business employees by AR Manger ](https://www.youtube.com/watch?v=81MFf3mM2Fc)
