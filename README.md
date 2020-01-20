@@ -21,3 +21,5 @@ Facebook Write-ups, PoC, and exploitation codes:
 1. ["Bypass" SparkHup Disclosure of business employees by AR Manger ](https://www.youtube.com/watch?v=81MFf3mM2Fc)
 
 1. ["Facebook Graph API v2.6 used in Rights Manager Disclosure of business employee to non business employee"](https://youtu.be/xFeH5mMdCwc)
+
+1. ["CSRF on portal.fb.com "informative" "](https://youtu.be/kpWML-vZkQ4)
